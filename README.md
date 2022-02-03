@@ -2,4 +2,4 @@
 
 A simple web browser written in Python.
 
-![PyBrowser](https://user-images.githubusercontent.com/83606701/152341253-56a05208-e05a-4a33-9355-d1bfc714e436.PNG)
+![PyBrowser](https://user-images.githubusercontent.com/83606701/152411844-85aabf71-a55b-4089-bf36-e7e57526bc0f.PNG)
